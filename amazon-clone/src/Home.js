@@ -25,7 +25,7 @@ function Home() {
               />
               <Product 
                  id="03"
-                 title=" Samsung Galaxy M12 (Blue,4GB RAM, 64GB Storage) 6000 mAh with 8nm Processor | True 48 MP Quad Camera | 90Hz Refresh Rate "
+                 title=" Samsung Galaxy M12 (Blue,4GB RAM, 64GB Storage) "
                  price={21000}
                  image="https://m.media-amazon.com/images/I/71r69Y7BSeL._SL1500_.jpg"
               />
