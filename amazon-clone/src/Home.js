@@ -53,7 +53,7 @@ function Home() {
                   id="06"
                   title="AmazonBasics 564 L Side-by-Side Door Refrigerator (Silver Steel Finish)   "
                   price={10000}
-                  image="https://images-eu.ssl-images-amazon.com/images/I/315q4CFDxqL._SY445_SX342_QL70_FMwebp_.jpg"
+                  image="https://m.media-amazon.com/images/I/71OoBhxWsnS._SL1500_.jpg"
               />
               </div>
 
